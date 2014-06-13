@@ -373,6 +373,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-time{background-position:-48px -24px}
 .icon-user{background-position:-168px 0}
 .icon-comment{background-position:-240px -120px}
+.icon-question-sign{background-position:-96px -96px;}
+.icon-plus{background-position: -408px -96px;}
 .btn-group{position:relative;display:inline-block;*display:inline;*zoom:1;font-size:0;vertical-align:middle;white-space:nowrap;*margin-left:.3em}.btn-group:first-child{*margin-left:0}
 .btn-group+.btn-group{margin-left:5px}
 .btn-toolbar{font-size:0;margin-top:10px;margin-bottom:10px}.btn-toolbar>.btn+.btn,.btn-toolbar>.btn-group+.btn,.btn-toolbar>.btn+.btn-group{margin-left:5px}
