@@ -750,3 +750,14 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
 #vk_groups{margin: 0px auto !important}
 ul#menu-one li{line-height: 28px}
 .ctags a{text-decoration: none;background-color: #eeeeee}
+#comments .comment-author-avatar{height:30px;width:30px;overflow:hidden;webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px; margin-right:10px}
+#comments .comment-author .says, #comments .comment-author .says a{color:#999;font-size:11px;text-decoration:none;margin-left:5px}
+#comments .fn{font-size:12px; font-weight:bold} #comments .fn a{text-decoration:none}
+#comments .comment-content p{color:#000;font-size:12px}
+.commentlist li.comment{line-height: 130%}
+#comments .comment-reply-login{display:none}
+#comments .offset1{margin-left:60px !important}
+#comments .offset2{margin-left:90px !important}
+#comments .offset3{margin-left:120px !important}
+#comments .offset4{margin-left:150px !important}
+#comments .comment-content{margin-left:30px}
