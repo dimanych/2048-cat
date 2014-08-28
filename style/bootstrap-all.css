@@ -124,7 +124,7 @@ h1,h2,h3,h4,h5{line-height:40px}
 h1{font-size:38.5px}
 h2{font-size:31.5px}
 h3{font-size:20px; }
-h4{font-size:17.5px}
+h4{font-size:17.5px;text-align:center;}
 h5{font-size:25.5px; color:#808080; font-weight:200}
 h6{font-size:11.9px}
 h1 small{font-size:24.5px}
